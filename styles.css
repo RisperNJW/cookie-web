@@ -1,0 +1,21 @@
+body {  
+    background-color: #f8e3a0; /* Change background color */  
+    font-family: Arial, sans-serif;  
+    text-align: center;  
+}
+
+h1, p {
+  text-align: center;
+}
+
+.cookie-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+nav a {
+  margin: 0 10px;
+  color: green;
+}
