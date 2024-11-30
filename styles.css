@@ -19,3 +19,9 @@ nav a {
   margin: 0 10px;
   color: green;
 }
+nav a:visited{
+    color: blue;
+}
+nav a:hover{
+    color: red;
+}
